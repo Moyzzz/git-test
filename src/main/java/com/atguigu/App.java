@@ -12,5 +12,6 @@ public class App
         System.out.println( "master version!" );
         System.out.println( "hot-fix version!" );
         System.out.println("up to date!");
+        System.out.println("pull program!");
     }
 }
